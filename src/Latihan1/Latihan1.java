@@ -11,9 +11,6 @@ package Latihan1;
  */
 public class Latihan1 extends javax.swing.JFrame {
 
-    /**
-     * Creates new form Latihan1
-     */
     public Latihan1() {
         initComponents();
     }
@@ -147,6 +144,7 @@ public class Latihan1 extends javax.swing.JFrame {
         } catch (javax.swing.UnsupportedLookAndFeelException ex) {
             java.util.logging.Logger.getLogger(Latihan1.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
         }
+        //</editor-fold>
         //</editor-fold>
 
         /* Create and display the form */

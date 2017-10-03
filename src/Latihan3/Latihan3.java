@@ -48,7 +48,6 @@ public class Latihan3 extends javax.swing.JFrame {
         jButton3.setText(":");
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
-        setPreferredSize(new java.awt.Dimension(400, 360));
         setResizable(false);
 
         jLabel3.setFont(new java.awt.Font("Times New Roman", 1, 24)); // NOI18N
@@ -229,6 +228,7 @@ public class Latihan3 extends javax.swing.JFrame {
         } catch (javax.swing.UnsupportedLookAndFeelException ex) {
             java.util.logging.Logger.getLogger(Latihan3.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
         }
+        //</editor-fold>
         //</editor-fold>
 
         /* Create and display the form */

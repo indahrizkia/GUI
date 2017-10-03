@@ -11,9 +11,7 @@ package Latihan2;
  */
 public class Latihan2 extends javax.swing.JFrame {
 
-    /**
-     * Creates new form Latihan2
-     */
+    
     public Latihan2() {
         initComponents();
     }
